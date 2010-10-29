@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TaskKeyHook", "KeyHookDLL\TaskKeyHook.vcproj", "{3F90F925-3F26-4DB1-BD6D-C461F3524339}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TrapKeys", "TrapKeys\TrapKeys.vcproj", "{B5BEE531-2DF0-4132-8A59-867FFDF01626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrapKeys2", "TrapKeys2\TrapKeys2.csproj", "{468FEC8B-5A1E-4E43-85FB-6B690D87A595}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F90F925-3F26-4DB1-BD6D-C461F3524339}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{3F90F925-3F26-4DB1-BD6D-C461F3524339}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{3F90F925-3F26-4DB1-BD6D-C461F3524339}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{3F90F925-3F26-4DB1-BD6D-C461F3524339}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3F90F925-3F26-4DB1-BD6D-C461F3524339}.Debug|Win32.Build.0 = Debug|Win32
+		{3F90F925-3F26-4DB1-BD6D-C461F3524339}.Release|Any CPU.ActiveCfg = Release|Win32
+		{3F90F925-3F26-4DB1-BD6D-C461F3524339}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{3F90F925-3F26-4DB1-BD6D-C461F3524339}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{3F90F925-3F26-4DB1-BD6D-C461F3524339}.Release|Win32.ActiveCfg = Release|Win32
+		{3F90F925-3F26-4DB1-BD6D-C461F3524339}.Release|Win32.Build.0 = Release|Win32
+		{B5BEE531-2DF0-4132-8A59-867FFDF01626}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{B5BEE531-2DF0-4132-8A59-867FFDF01626}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{B5BEE531-2DF0-4132-8A59-867FFDF01626}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{B5BEE531-2DF0-4132-8A59-867FFDF01626}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B5BEE531-2DF0-4132-8A59-867FFDF01626}.Debug|Win32.Build.0 = Debug|Win32
+		{B5BEE531-2DF0-4132-8A59-867FFDF01626}.Release|Any CPU.ActiveCfg = Release|Win32
+		{B5BEE531-2DF0-4132-8A59-867FFDF01626}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{B5BEE531-2DF0-4132-8A59-867FFDF01626}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{B5BEE531-2DF0-4132-8A59-867FFDF01626}.Release|Win32.ActiveCfg = Release|Win32
+		{B5BEE531-2DF0-4132-8A59-867FFDF01626}.Release|Win32.Build.0 = Release|Win32
+		{468FEC8B-5A1E-4E43-85FB-6B690D87A595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{468FEC8B-5A1E-4E43-85FB-6B690D87A595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{468FEC8B-5A1E-4E43-85FB-6B690D87A595}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{468FEC8B-5A1E-4E43-85FB-6B690D87A595}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{468FEC8B-5A1E-4E43-85FB-6B690D87A595}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{468FEC8B-5A1E-4E43-85FB-6B690D87A595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{468FEC8B-5A1E-4E43-85FB-6B690D87A595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{468FEC8B-5A1E-4E43-85FB-6B690D87A595}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{468FEC8B-5A1E-4E43-85FB-6B690D87A595}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{468FEC8B-5A1E-4E43-85FB-6B690D87A595}.Release|Win32.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

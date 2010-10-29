@@ -1,0 +1,2 @@
+bin\Debug\TrapKeys2.exe
+bin\Debug\TrapKeys2.pdb
